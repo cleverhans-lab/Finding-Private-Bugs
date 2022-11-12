@@ -14,6 +14,7 @@ pynvml
 pytest
 scikit_image
 scipy
+statsmodels
 torch==1.10.0
 torchvision==0.11.1
 ```
